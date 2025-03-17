@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-I'm Li Weilong (李伟龙), a Master's student in Library and Information Science at <a href="*[Insert Dalian University of Foreign Languages Website Here](https://www.dlufl.edu.cn/en/)*">Dalian University of Foreign Languages</a> (expected graduation: 2026), where I rank in the top 1% of my program.  My undergraduate degree is in Information Management and Information Systems from <a href="*[Insert Nanjing Tech University Website Here](https://en.njtech.edu.cn/)*">Nanjing Tech University</a> (2018-2022).
+I'm Li Weilong (李伟龙), a Master's student in Library and Information Science at <a href="https://www.dlufl.edu.cn/en/">Dalian University of Foreign Languages</a> (expected graduation: 2026), where I rank in the top 1% of my program.  My undergraduate degree is in Information Management and Information Systems from <a href="https://en.njtech.edu.cn/">Nanjing Tech University</a> (2018-2022).
 </p>
 
 <p>
@@ -32,7 +32,7 @@ I hold a National Computer Rank Examination Certificate (Level 2) and have achie
 </p>
 
 <p>
-You can find my CV here: <a href="*[Insert a link to your CV here.  e.g., ../assets/Li_Weilong_CV.pdf](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_14)*">Li Weilong's Curriculum Vitae</a>.
+You can find my CV here: <a href="https://link.springer.com/chapter/10.1007/978-981-97-9443-0_14">Li Weilong's Curriculum Vitae</a>.
 </p>
 
 <p>
