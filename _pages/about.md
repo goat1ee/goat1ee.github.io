@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Goat1ee Home Page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,7 +32,7 @@ I hold a National Computer Rank Examination Certificate (Level 2) and have achie
 </p>
 
 <p>
-You can find my CV here: <a href="https://link.springer.com/chapter/10.1007/978-981-97-9443-0_14">Li Weilong's Curriculum Vitae</a>.
+You can find my CV here: <a href="[https://link.springer.com/chapter/10.1007/978-981-97-9443-0_14](https://scholar.google.com/citations?hl=zh-CN&user=MzD4WLMAAAAJ&view_op=list_works&gmla=ANZ5fUPW6l1b5Grm2UdeVnfEyCnVzqfIYISWgy-aRGzitPuKdiCEvXEZbKdc7oW8w9RO1UX7b9Tz_Ra2JXm7Yg3SaBdPCsTGJdzkGOU5dzVxgYV2udo)">Li Weilong's Curriculum Vitae</a>.
 </p>
 
 <p>
